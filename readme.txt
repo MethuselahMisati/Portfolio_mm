@@ -1,69 +1,70 @@
-Get PRO Here:
-https://templatesjungle.gumroad.com/l/julia-onepage-portfolio
+Here’s a revamped version of the README file for your portfolio website that removes all template branding and licensing language while still keeping the professionalism and usability guidance:
 
-It is a free HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+---
+Methuselah Misati – Portfolio Website
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+This project is a sleek, single-page HTML/CSS portfolio designed to present professional skills, projects, and contact information in a modern and responsive layout.
 
+📁 Overview
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+This portfolio site provides a responsive and visually appealing layout that can be customized to showcase personal or professional work. It's a great starting point for developers, designers, or creatives looking to establish an online presence.
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+🛠️ Features
 
-However, you can remove the credit link by paying for No Attribution version of the template.
+* Clean, semantic HTML5 and modern CSS3
+* Mobile-friendly responsive layout
+* Interactive project showcase section
+* Smooth scrolling and animated transitions
+* Contact form integration-ready
+* Easy to customize and extend
 
+🚀 Getting Started
 
-RIGHTS
+1. Clone or download the project files.
+2. Open `index.html` in your preferred editor.
+3. Customize the content, colors, fonts, and images as needed.
+4. Deploy it on any static site host (e.g., GitHub Pages, Vercel, Netlify, etc.)
 
-You are allowed to use it in your personal projects and commercial projects.
+📂 File Structure
 
-You can modify and sell it to your clients.
+```
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   └── [project images, icons, etc.]
+├── index.html
+└── README.md
+```
 
+✏️ Customization Tips
 
-PROHIBITIONS
+Replace placeholder content with your own biography, skills, and portfolio items. 
+Update social links and contact information.
+Swap out images in the `images/` folder with your own.
+Modify colors and fonts in `css/style.css` for branding consistency.
 
-You cannot remove the credit link which links back to templatesjungle.com.
+📚 Tools & Libraries Used
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+HTML5 & CSS3
+JavaScript (vanilla)
+[Bootstrap](https://getbootstrap.com/) – For responsive layout and components
+[Swiper.js](https://swiperjs.com/) – For carousels
+[Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) – For lightbox galleries
+[Google Fonts](https://fonts.google.com/) – For typography
+[IcoMoon](https://icomoon.io/) – For icon fonts
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+📸 Stock Photo Sources
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+[Unsplash](https://unsplash.com/)
+[Pexels](https://www.pexels.com/)
+[Freepik](https://www.freepik.com/)
 
-You cannot host the download file in your website.
+📧 Feedback
 
+For feedback, ideas, or improvements, feel free to fork the repository and open a pull request, or reach out directly.
 
-SUPPORT
+---
 
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icomoon.io/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
-
-
+Let me know if you want to personalize it further (e.g., with your GitHub repo, specific tech stack, or unique credits).
