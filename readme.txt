@@ -1,6 +1,3 @@
-Here’s a revamped version of the README file for your portfolio website that removes all template branding and licensing language while still keeping the professionalism and usability guidance:
-
----
 Methuselah Misati – Portfolio Website
 
 This project is a sleek, single-page HTML/CSS portfolio designed to present professional skills, projects, and contact information in a modern and responsive layout.
